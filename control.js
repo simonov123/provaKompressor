@@ -88,3 +88,7 @@ function calcprec(prec100,prec){
     return val;
 
 }
+
+function vidkompr(){
+  window.open("video.html", "_blank");
+}
